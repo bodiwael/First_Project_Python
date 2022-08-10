@@ -1,2 +1,3 @@
 # Python_Programming_Basics
-Apply up to 100 projects in python projects.
+
+How to print text, like "Hello World!" in python projects.
